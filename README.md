@@ -1,6 +1,4 @@
-<div align="center">
-
-# Hola, soy Alejandro Villegas 👋
+# Hola, soy Alejandro Villegas
 
 ### Desarrollador Web Full Stack · Fundador de Nubira Web
 
@@ -18,15 +16,23 @@ Creo sitios web profesionales, catálogos digitales, formularios conectados, pan
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
-
 ---
 
 ## Sobre mí
 
 Soy desarrollador web Full Stack enfocado en crear soluciones digitales funcionales para negocios reales.
 
-No me limito a crear páginas visualmente atractivas. Desarrollo experiencias completas que pueden incluir diseño responsive, formularios conectados, bases de datos, correos automáticos, paneles administrativos, mini CRM, sistemas de reservas, APIs, dashboards y publicación en hosting real.
+No me limito a crear páginas visualmente atractivas. Desarrollo experiencias completas que pueden incluir:
+
+- Diseño responsive.
+- Formularios conectados.
+- Bases de datos.
+- Correos automáticos por SMTP.
+- Paneles administrativos.
+- Mini CRM.
+- Sistemas de reservas.
+- APIs y dashboards.
+- Publicación en hosting real.
 
 Mi objetivo es construir soluciones que se vean profesionales, generen confianza y ayuden a un negocio a operar mejor.
 
@@ -103,10 +109,6 @@ Por eso cuido tanto la parte visual como la parte funcional: estructura, experie
 
 ---
 
-<div align="center">
-
 ### ¿Quieres ver más?
 
 [![Visitar Nubira Web](https://img.shields.io/badge/Visitar%20Nubira%20Web-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nubiraweb.com/)
-
-</div>
